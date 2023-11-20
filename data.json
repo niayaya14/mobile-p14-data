@@ -17,6 +17,78 @@
             "releaseDate":"2022",
             "artistName":"NIKI",
             "genre":"Pop"
+        },
+        {
+            "id": "3",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d0000b273563944da62812cc5c6e2fe6f",
+            "albumName": "always",
+            "title":"us",
+            "releaseDate":"2020",
+            "artistName":"keshi",
+            "genre":"Pop"
+        },
+        {
+            "id": "4",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d0000b27372355b30dde4b6ded10ef48c",
+            "albumName": "It'll Be Okay",
+            "title":"It'll Be Okay",
+            "releaseDate":"2021",
+            "artistName":"Shawn Mendes",
+            "genre":"Pop"
+        },
+        {
+            "id": "5",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d0000b27349bfa64a9446e5af24df08f7",
+            "albumName": "She Loves Me Not",
+            "title":"Still",
+            "releaseDate":"2019",
+            "artistName":"Jeff Bernat",
+            "genre":"Pop"
+        },
+        {
+            "id": "6",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d0000b27349bfa64a9446e5af24df08f7",
+            "albumName": "Fine Line",
+            "title":"Falling",
+            "releaseDate":"2019",
+            "artistName":"Harry Styles",
+            "genre":"Pop"
+        },
+        {
+            "id": "7",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14",
+            "albumName": "25",
+            "title":"Love In The Dark",
+            "releaseDate":"2015",
+            "artistName":"Adele",
+            "genre":"Pop"
+        },
+        {
+            "id": "8",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d0000b273972bfee6ba28113037e23599",
+            "albumName": "personal",
+            "title":"personal",
+            "releaseDate":"2021",
+            "artistName":"lullaboy",
+            "genre":"Pop"
+        },
+        {
+            "id": "9",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d0000b273593e693d168c94f916a079b5",
+            "albumName": "Blood Harmony (Deluxe)",
+            "title":"Break My Heart Again",
+            "releaseDate":"2020",
+            "artistName":"FINNEAS",
+            "genre":"Pop"
+        },
+        {
+            "id": "10",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d0000b273a5ea254e4c2f87956a6c64bb",
+            "albumName": "I miss you, I'm sorry",
+            "title":"I miss you, I'm sorry",
+            "releaseDate":"2020",
+            "artistName":"Gracie Abrams",
+            "genre":"Pop"
         }
     ]
 }

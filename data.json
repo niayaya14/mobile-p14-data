@@ -1,20 +1,22 @@
-[
-    {
-        "id": "1",
-        "pictureUrl": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-        "albumName": "NEVER ENOUGH",
-        "title":"Always",
-        "releaseDate":"2023",
-        "artistName":"Daniel Caesar",
-        "genre":"Pop"
-    },
-    {
-        "id": "2",
-        "pictureUrl": "https://i.scdn.co/image/ab67616d00001e02770eeb0ee1c91983b1ba4a10",
-        "albumName": "Nicole",
-        "title":"Backburner",
-        "releaseDate":"2022",
-        "artistName":"NIKI",
-        "genre":"Pop"
-    }
-]
+{
+    "results: [
+        {
+            "id": "1",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+            "albumName": "NEVER ENOUGH",
+            "title":"Always",
+            "releaseDate":"2023",
+            "artistName":"Daniel Caesar",
+            "genre":"Pop"
+        },
+        {
+            "id": "2",
+            "pictureUrl": "https://i.scdn.co/image/ab67616d00001e02770eeb0ee1c91983b1ba4a10",
+            "albumName": "Nicole",
+            "title":"Backburner",
+            "releaseDate":"2022",
+            "artistName":"NIKI",
+            "genre":"Pop"
+        }
+    ]
+}
